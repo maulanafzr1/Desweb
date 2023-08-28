@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+    }
+    .sidebar-left, .sidebar-right,  .sidebar-middle {
+        margin: 20px 0;
+    }
+  }
